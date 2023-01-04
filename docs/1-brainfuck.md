@@ -10,7 +10,7 @@ I first initialized a Rust project using Cargo (it's in the `brainfuck` director
 clap = { version = "4.0.32", features = ["derive", "cargo"] }
 ```
 
-Here's the main function of the program (The code is at `/brainfuck/src/main.rs`):
+Here's the main function of the program (The code is at [`/brainfuck/src/main.rs`](https://github.com/zihan-ch/lang-journey/brainfuck/src/main.rs)):
 
 ```rust
 use clap::{arg, command};

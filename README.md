@@ -4,4 +4,4 @@ Everything's gonna be put in the docs directory. If you wanna learn with me toge
 
 ## Table of contents
 
-1. [Brainfuck](https://github.com/zihan-ch/lang-journey/docs/1-brainfuck.md)
+1. [Brainfuck](https://github.com/zihan-ch/lang-journey/blob/main/docs/1-brainfuck.md)
